@@ -1,0 +1,25 @@
+.header{
+    background-color:lightslategray;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 20px;
+}
+
+.second-header{
+    display: flex;
+    align-items: center;
+}
+.second-header a{
+    padding: 0px;
+    text-decoration: none;
+    color: black;    
+    margin: 5px;
+}
+
+img{
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    margin: 0px 0px 0px 14px;
+}

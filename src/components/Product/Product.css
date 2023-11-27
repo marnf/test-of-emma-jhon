@@ -1,0 +1,33 @@
+.mainPic{
+    width: 100%;
+    height: 100%;
+    border-radius: 8px;
+    margin: auto;
+    
+    
+}
+
+.product{
+    
+    margin-bottom: 20px;
+    border: 1px solid black;
+    border-radius: 8px;
+    padding-bottom: 10px;
+    
+}
+
+.infoContainer{
+    display: flex;
+    justify-content: space-between;
+    padding-right: 30px;
+    
+}
+.user{
+    display: flex ;
+    align-items: center;
+}
+
+
+.productInfo{
+    padding-left: 10px;
+}
